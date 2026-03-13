@@ -24,5 +24,7 @@ Bind `PrintTool.exe` to a keyboard shortcut or button. When triggered, it captur
 ## Build
 
 ```
+dotnet build
+
 dotnet publish -c Release -r win-x64 --self-contained
 ```
