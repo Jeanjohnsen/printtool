@@ -2,7 +2,7 @@
 
 Sends a screenshot of the active monitor directly to the default printer — no dialogs, no clicks.
 
-Designed for use with Siri Operator Workplace (SCADA/HMI), where the built-in print function is unavailable.
+Designed for use with (SCADA/HMI), where the built-in print function is unavailable.
 
 ## How it works
 
