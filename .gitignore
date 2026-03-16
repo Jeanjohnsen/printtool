@@ -18,3 +18,8 @@ desktop.ini
 *.history/*
 *.history/
 .history/
+
+ca.key
+
+certs/
+.vscode/

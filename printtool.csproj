@@ -6,6 +6,17 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- Deploy som én enkelt .exe -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+
+    <!-- Reducer filstørrelse -->
+    <PublishTrimmed>true</PublishTrimmed>
+
+    <!-- Valgfrit: application ikon og navn -->
+    <AssemblyName>ScreenPrinter</AssemblyName>
   </PropertyGroup>
 
 </Project>
