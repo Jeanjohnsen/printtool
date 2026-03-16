@@ -21,5 +21,8 @@ desktop.ini
 
 ca.key
 
-certs/
+codesign.key
 .vscode/
+codesign.csr
+ca.srl
+publish/
